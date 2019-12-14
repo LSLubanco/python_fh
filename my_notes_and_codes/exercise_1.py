@@ -1,11 +1,4 @@
-'''
-Program should do what is supposed to do
-use meaningful variable names
-use comments where is necessary
-Program shall be robust, so if user put wrong input data type
-	the program shall not crash
 
-'''
 
 import argparse
 
